@@ -23,7 +23,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/super-market-billing-system.git
+git clone https://github.com/ravisankaradimula/Super_Market_Bill_Management.git
 cd super-market-billing-system
 Compile the Source Code:
 
