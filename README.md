@@ -10,13 +10,7 @@ Technologies Used
 C++ Standard Library
 File I/O Operations
 Windows-specific functions (system("cls") and Sleep())
-Project Structure
-css
-Copy code
-.
-├── bill.txt
-├── main.cpp
-└── README.md
+
 bill.txt: Stores item information (name, rate, and quantity).
 main.cpp: Main source code for the application.
 README.md: Project documentation.
